@@ -35,7 +35,7 @@
 
 * 下载地址（官方）：[Releases · lyswhut/lx-music-desktop (github.com)](https://github.com/lyswhut/lx-music-desktop/releases)
 
-* 下载地址（本up主的123网盘）:https://www.123pan.com/s/Sv9LVv-zZM13
+* 下载地址（本up主的123网盘）：[123云盘下载](https://www.123pan.com/s/Sv9LVv-qKw13)
 
 *更新可以在软件内部进行更新*  
 
@@ -104,3 +104,9 @@
 7. 记得勾选其中的一个音乐源
 
 ### 参数设置可以参考电脑的参数设置
+
+b站视频（电脑安装教程）：[电脑详细安装洛雪音乐教程](https://www.bilibili.com/video/BV1vhp6eWEcq/?spm_id_from=333.999.0.0&vd_source=9d2d5f856066fad3b5b40450a361a0fd)
+
+b站视频（手机安装教学）：[手机版洛雪音乐安装教程](https://www.bilibili.com/video/BV1DxW4eVEMS/?spm_id_from=333.999.0.0)
+
+b站视频（关于下载和安装洛雪音乐遇到的问题及详细解答）：[洛雪音乐电脑使用过程中大家遇到的问题](https://www.bilibili.com/video/BV1FgsAecEur/?spm_id_from=333.999.0.0)
